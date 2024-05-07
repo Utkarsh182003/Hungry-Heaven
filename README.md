@@ -13,3 +13,8 @@ Hungry Heaven is built using the following technologies:
 * HTML: Used for structuring the web pages.           
 * CSS: Employed for styling and enhancing the visual appeal.                                      
 * JavaScript: Implemented for dynamic functionalities and interactivity.
+
+## Screenshots
+![ss1](https://github.com/Utkarsh182003/Hungry-Heaven/assets/154970264/454958b4-72d3-4304-b632-463edbdf18d9)
+
+![ss2](https://github.com/Utkarsh182003/Hungry-Heaven/assets/154970264/21df9e92-44bb-48ab-9596-852116f8c616)
