@@ -10,6 +10,6 @@ Welcome to Hungry Heaven, where delicious food meets convenience! Hungry Heaven 
 ## Technologies Used
 Hungry Heaven is built using the following technologies:
 
-HTML: Used for structuring the web pages.           
-CSS: Employed for styling and enhancing the visual appeal.                                      
-JavaScript: Implemented for dynamic functionalities and interactivity.
+* HTML: Used for structuring the web pages.           
+* CSS: Employed for styling and enhancing the visual appeal.                                      
+* JavaScript: Implemented for dynamic functionalities and interactivity.
