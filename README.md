@@ -1,5 +1,6 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+ ![hungry_logo](https://github.com/Utkarsh182003/Hungry-Heaven/assets/154970264/db1a77ae-9dca-4210-b1d6-a55f4f45e750)
+
 
 
 # Hungry Heaven - Food Restro
@@ -18,3 +19,22 @@ Hungry Heaven is built using the following technologies:
 ![ss1](https://github.com/Utkarsh182003/Hungry-Heaven/assets/154970264/454958b4-72d3-4304-b632-463edbdf18d9)
 
 ![ss2](https://github.com/Utkarsh182003/Hungry-Heaven/assets/154970264/21df9e92-44bb-48ab-9596-852116f8c616)
+
+## Live Preview
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+Open Visual Studio Code
+```bash
+  open VS Code and press Ctrl+Shift+P, then select Git: Clone and paste the copied link
+```
+Start the server
+
+```bash
+ Click on Go live 
+```
