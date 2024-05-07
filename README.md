@@ -20,7 +20,7 @@ Hungry Heaven is built using the following technologies:
 
 ![ss2](https://github.com/Utkarsh182003/Hungry-Heaven/assets/154970264/21df9e92-44bb-48ab-9596-852116f8c616)
 
-## Live Preview
+## Live Preview [Live] (https://utkarsh182003.github.io/Hungry-Heaven/)
 
 ## Run Locally
 
